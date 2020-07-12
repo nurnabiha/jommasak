@@ -1,0 +1,27 @@
+.mb-1{
+    margin-bottom: 25px;
+}
+
+.title-center{
+    text-align:center;
+    width: 100%;
+}
+
+.mx-auto{
+    /* position: absolute; */
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.inline{
+    display: inline;
+}
+
+.summernote-no-padding{
+    padding: 0;
+}
+
+.brand-logo
+{
+    width:128px;
+}
